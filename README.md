@@ -1,6 +1,6 @@
 # Hair Growth Analysis
 
-This repository contains SAS code for analyzing the efficacy of various hair growth treatments using the **Baldy.csv** dataset. The analysis includes data import, transformation, and statistical methods to compare treatments and assess the impact of age on hair growth.
+This repository contains SAS code for analysing the efficacy of various hair growth treatments using the **Baldy.csv** dataset. The analysis includes data import, transformation, and statistical methods to compare treatments and assess the impact of age on hair growth.
 
 ## Data Transformation
 
